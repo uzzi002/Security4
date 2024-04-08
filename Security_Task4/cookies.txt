@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_shopify_essential	:AY69ztLAAAH_HvCYdTEd3s9qieKJzFuMq5sUd9DXTgQYqAOP8sTADl3Iq9SlHUqmc1PcnE9oHUEdv3jj29jtAGGb6aguBNeJ8w==:
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_secure_session_id	01HTYWXNCVY23C24QWT6AZE1BH
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22reg%22%3A%22%22%2C%22region%22%3A%22ZAEC%22%7D
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_landing_page	%2Faccount%2Flogin%3Freturn_url%3D%252Faccount
+coastalpets.co.za	TRUE	/	FALSE	1999999999	keep_alive	046ba0c1-2f81-4dab-bd58-a930550b59ca
+coastalpets.co.za	TRUE	/	FALSE	1999999999	localization	ZA
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_shopify_y	4da5bd30-eee1-4a9d-bdd9-17920b212c16
+coastalpets.co.za	TRUE	/	FALSE	1999999999	_shopify_s	c9a51f9a-7393-4f77-a7b7-a623dcaa7a1c
+coastalpets.co.za	TRUE	/	FALSE	1999999999	SameSite	Lax
+
